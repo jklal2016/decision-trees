@@ -1,0 +1,6 @@
+Best Max Depth = 10
+Best Impurity = variance
+Best Max Bins = 20
+The execution time is 117.460050154seconds.
+Accuracy = 0.4474237841000399
+Test Error = 0.5525762158999601

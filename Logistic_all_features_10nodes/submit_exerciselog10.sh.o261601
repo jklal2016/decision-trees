@@ -1,0 +1,6 @@
+Best Max Iter = 30
+Best Reg Param = 0.1
+Best Threshold = 0.25
+The execution time is 239.463666155seconds.
+Accuracy = 0.6621329816257515
+Test Error = 0.3378670183742485

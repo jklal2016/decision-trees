@@ -1,0 +1,6 @@
+Best Max Depth = 5
+Best Impurity = gini
+Best Max Bins = 20
+The execution time is 199.965892073seconds.
+Accuracy = 0.68969448398665
+Test Error = 0.31030551601335

@@ -1,0 +1,8 @@
+17/03/23 13:19:53 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/03/23 13:20:02 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+17/03/23 13:20:02 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+17/03/23 13:20:04 WARN Utils: Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+[Stage 584:======================================>                  (2 + 1) / 3]                                                                                
+real	6m4.143s
+user	5m43.366s
+sys	0m5.897s

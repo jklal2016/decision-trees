@@ -1,0 +1,62 @@
+17/03/23 15:35:54 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/03/23 15:36:03 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
+17/03/23 15:36:03 WARN BLAS: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS
+17/03/23 15:36:05 WARN Utils: Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.debug.maxToStringFields' in SparkEnv.conf.
+17/03/23 15:36:09 WARN Executor: 1 block locks were not released by TID = 0:
+[rdd_15_0]
+17/03/23 15:36:11 WARN Executor: 1 block locks were not released by TID = 6:
+[rdd_15_0]
+17/03/23 15:36:13 WARN Executor: 1 block locks were not released by TID = 20:
+[rdd_15_0]
+17/03/23 15:36:15 WARN Executor: 1 block locks were not released by TID = 44:
+[rdd_15_0]
+17/03/23 15:36:16 WARN Executor: 1 block locks were not released by TID = 50:
+[rdd_15_0]
+17/03/23 15:36:18 WARN Executor: 1 block locks were not released by TID = 64:
+[rdd_15_0]
+17/03/23 15:36:20 WARN Executor: 1 block locks were not released by TID = 88:
+[rdd_15_0]
+17/03/23 15:36:22 WARN Executor: 1 block locks were not released by TID = 94:
+[rdd_15_0]
+17/03/23 15:36:23 WARN Executor: 1 block locks were not released by TID = 108:
+[rdd_15_0]
+17/03/23 15:36:30 WARN Executor: 1 block locks were not released by TID = 141:
+[rdd_336_0]
+17/03/23 15:36:32 WARN Executor: 1 block locks were not released by TID = 147:
+[rdd_336_0]
+17/03/23 15:36:33 WARN Executor: 1 block locks were not released by TID = 161:
+[rdd_336_0]
+17/03/23 15:36:35 WARN Executor: 1 block locks were not released by TID = 185:
+[rdd_336_0]
+17/03/23 15:36:37 WARN Executor: 1 block locks were not released by TID = 191:
+[rdd_336_0]
+17/03/23 15:36:38 WARN Executor: 1 block locks were not released by TID = 205:
+[rdd_336_0]
+17/03/23 15:36:40 WARN Executor: 1 block locks were not released by TID = 229:
+[rdd_336_0]
+17/03/23 15:36:41 WARN Executor: 1 block locks were not released by TID = 235:
+[rdd_336_0]
+17/03/23 15:36:42 WARN Executor: 1 block locks were not released by TID = 249:
+[rdd_336_0]
+17/03/23 15:36:49 WARN Executor: 1 block locks were not released by TID = 282:
+[rdd_657_0]
+17/03/23 15:36:51 WARN Executor: 1 block locks were not released by TID = 288:
+[rdd_657_0]
+17/03/23 15:36:52 WARN Executor: 1 block locks were not released by TID = 302:
+[rdd_657_0]
+17/03/23 15:36:54 WARN Executor: 1 block locks were not released by TID = 326:
+[rdd_657_0]
+17/03/23 15:36:55 WARN Executor: 1 block locks were not released by TID = 332:
+[rdd_657_0]
+17/03/23 15:36:57 WARN Executor: 1 block locks were not released by TID = 346:
+[rdd_657_0]
+17/03/23 15:36:59 WARN Executor: 1 block locks were not released by TID = 370:
+[rdd_657_0]
+17/03/23 15:37:00 WARN Executor: 1 block locks were not released by TID = 376:
+[rdd_657_0]
+17/03/23 15:37:02 WARN Executor: 1 block locks were not released by TID = 390:
+[rdd_657_0]
+
+real	1m44.709s
+user	2m29.211s
+sys	0m4.842s

@@ -1,0 +1,6 @@
+Best Max Depth = 5
+Best Impurity = entropy
+Best Max Bins = 10
+The execution time is 186.104289429seconds.
+Accuracy = 0.6835602679862066
+Test Error = 0.3164397320137934
